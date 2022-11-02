@@ -1,3 +1,3 @@
 # opgp_legion
 open source bot for a really bad web game 
-WIP
+WI^ no longer wip, i cba
